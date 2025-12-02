@@ -1,6 +1,4 @@
 # Mohammed_Naeem
-
-# 💫 About Me:
 ## 👋 About Me<br><br>I'm a Data Scientist with a strong focus on machine learning, deep learning, and actionable analytics.  <br>I love solving real-world problems using data, building intelligent systems, and optimizing models for production.<br><br>### 🚀 What I Do<br>- Design and build end-to-end ML pipelines  <br>- Develop NLP, Computer Vision, and predictive ML models  <br>- Perform data analysis, data engineering, and feature development  <br>- Deploy models using MLOps tools (Docker, MLflow, Airflow, FastAPI, CI/CD)<br><br>### 🧠 Technical Skills<br>- **Languages:** Python, SQL  <br>- **ML/DL:** TensorFlow, Keras, PyTorch, Scikit-learn  <br>- **Data Engineering:** Pandas, PySpark, Airflow  <br>- **MLOps:** Docker, MLflow, GitHub Actions  <br>- **Visualization:** Power BI, Matplotlib, Seaborn, Plotly  <br><br>### 🌱 Currently Learning<br>Advanced deep learning workflows, model optimization, and production-grade MLOps.<br><br>### 📫 Contact<br>Feel free to explore my repositories, open issues, or reach out anytime!<br>
 
 
